@@ -1,4 +1,5 @@
-note
+Note
 ====
 
-Moved to github.com/wxr
+[wangxinran](https://github.com/wangxinran) has moved to [wxr](https://github.com/wxr)
+
